@@ -7,6 +7,6 @@ I am 21 years old, currently studying Computer Science at UIC and Game Developme
 - I also learn about Game Design on my own time to learn what makes good games "good"
 - My main goal is to because a game developer to share joy and valuable lessons in life to everyone
 
-**Languages**: C, C#, C++, Java, HTML, CSS
+⚙️ **Languages**: C, C#, C++, Java, HTML, CSS
 
-**Tools**: Visual Studios, VS Code, Netbeans, Eclipse, MySQL, Canva, Unity
+🧰 **Tools**: Visual Studios, VS Code, Netbeans, Eclipse, MySQL, Canva, Unity
