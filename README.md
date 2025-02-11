@@ -1,9 +1,11 @@
-## Greetings!
+## Greetings! 👋
 
 I am 21 years old, currently studying Computer Science at UIC and Game Development on my own time. 
 
-[write about passion about video games and how they inspired me to study computer science and achieve a dream to be a game dev]
-- I love playing video games not merely because
+- I love playing video games (especially story-based games) because they are thrilling and provide valuable lessons in life via storytelling
+- Video games inspired me to study Computer Science to learn how to make games via programming
+- I also learn about Game Design on my own time to learn what makes good games "good"
+- My main goal is to because a game developer to share joy and valuable lessons in life to everyone
 
 **Languages**: C, C#, C++, Java, HTML, CSS
 
