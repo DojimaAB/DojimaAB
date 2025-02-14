@@ -1,7 +1,5 @@
 ## 👋 Greetings! My name is Adrian Bautista!
 
-**About Me**
-
 I am 21 years old, currently studying Computer Science at UIC and Game Development on my own time. 
 - I love playing video games (especially story-based games) because they are thrilling and provide valuable lessons in life via storytelling
 - Video games inspired me to study Computer Science to learn how to make games via programming
