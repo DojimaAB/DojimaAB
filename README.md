@@ -1,6 +1,6 @@
-## Greetings! My name is Adrian Bautista! 👋
+## 👋 Greetings! My name is Adrian Bautista!
 
-📜 **About Me**
+**About Me**
 
 I am 21 years old, currently studying Computer Science at UIC and Game Development on my own time. 
 - I love playing video games (especially story-based games) because they are thrilling and provide valuable lessons in life via storytelling
@@ -10,4 +10,4 @@ I am 21 years old, currently studying Computer Science at UIC and Game Developme
 
 ⚙️ **Languages**: C, C#, C++, Java, HTML, CSS
 
-🧰 **Tools**: Visual Studios, VS Code, Netbeans, Eclipse, MySQL, Canva, Unity
+🧰 **Tools**: Visual Studios, VS Code, Netbeans, Eclipse, GitHub, MySQL, Canva, Unity
