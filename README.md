@@ -10,4 +10,5 @@ My ultimate goal is to become a game developer and bring joy, excitement, and li
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ⚙️ **Languages**: C, C#, C++, Java, HTML, CSS
+
 🧰 **Tools**: Visual Studios, VS Code, Netbeans, Eclipse, GitHub, MySQL, Canva, Unity
