@@ -1,6 +1,8 @@
 ## 👋 Greetings! Welcome to my profile!
 
 I am 21 years old, currently studying Computer Science at UIC, and Game Development on my own. 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Bio
 
 Since my junior year of high school, I have been passionate about video games, particularly story-driven ones. What draws me to games is not just the excitement, but the valuable life lessons they offer. They have also helped me manage stress, provided an escape from reality, and honed my problem-solving and creative thinking skills. Some characters have even influenced my personality and motivated me to persist in life, even when I am at my lowest. This deep connection to gaming sparked my interest in computer science, with the ultimate goal of becoming a game developer.
 
