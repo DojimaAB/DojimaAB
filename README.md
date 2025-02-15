@@ -8,6 +8,7 @@ I've been fascinated by the endless possibilities in computer science, such as b
 
 My ultimate goal is to become a game developer and bring joy, excitement, and life lessons to others through the games I create.
 
+
 ⚙️ **Languages**: C, C#, C++, Java, HTML, CSS
 
 🧰 **Tools**: Visual Studios, VS Code, Netbeans, Eclipse, GitHub, MySQL, Canva, Unity
