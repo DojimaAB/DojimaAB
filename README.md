@@ -1,4 +1,4 @@
-## 👋 Greetings! My name is Adrian Bautista!
+## 👋 Greetings! Welcome to my profile!
 
 I am 21 years old, currently studying Computer Science at UIC, and Game Development on my own. 
 
