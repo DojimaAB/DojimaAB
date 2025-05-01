@@ -12,6 +12,6 @@ My main goal is to become a game developer and use my games to bring others joy,
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ⚙️ **Languages**: C, C#, C++, Java, HTML, CSS
 
-🧰 **Tools**: GitHub, Git, Visual Studios, VS Code, Netbeans, Eclipse, MySQL, Canva, Unity
+🧰 **Tools**: GitHub, Git, Visual Studios, VS Code, Netbeans, Eclipse, MySQL, Canva, Unity, Unreal Engine 5
 
-📘 **Academics**: Data Structures & Algorithms, Programming Practicum
+📘 **Academics**: Program Design II, Data Structures & Algorithms, Programming Practicum
