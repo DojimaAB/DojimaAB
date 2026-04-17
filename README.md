@@ -1,15 +1,12 @@
 ## 👋 Greetings! Welcome to My Profile!
-I am 22 years old and currently studying Computer Science at UIC and Game Development independently. 
+I am 22 years old and currently studying Computer Science at UIC, while independently learning UI/UX design and web development.
 
 **About Me:**
-
-Since my junior year of high school, I've been passionate about video games, particularly those with story-driven narratives—not just for fun, but for the life lessons they teach. Gaming has helped me manage stress, sharpen my problem-solving skills, and inspired me during tough times. Thus, this passion led me to study computer science and to become a game/indie developer.
-
-I'm fascinated by the possibilities in computer science, from building websites to creating games. I am currently learning programming at university and enjoy watching game development videos to understand what makes games engaging. Every game I play and lesson I learn drives me to create games that bring joy and meaningful experiences to others.
+I'm fascinated by the possibilities in Computer Science, from building responsive websites to crafting user-centered interfaces. I'm currently studying programming at university and enjoy exploring design principles and user experience strategies to understand what makes digital products effective and engaging. Each project I take on brings me closer to creating impactful, accessible experiences that resonate with users.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-⚙️ **Languages**: C, C#, C++, Java, HTML, CSS
+⚙️ **Languages**: C, C++, Java, JavaFX, FXML, HTML, CSS
 
-🧰 **Tools**: GitHub, Git, Visual Studio, VS Code, Netbeans, Eclipse, MySQL, Canva, Unity, Unreal Engine 5, Godot
+🧰 **Tools**: GitHub, Git, Visual Studio, VS Code, IntelliJ, Eclipse, Figma, Scene Builder, Canva, Blender
 
-📘 **Academics**: Program Design II, Data Structures & Algorithms, Programming Practicum
+📘 **Academics**: Program Design II, Data Structures & Algorithms, Programming Practicum, Languages and Automata, Software Design, Machine Organization
