@@ -1,10 +1,18 @@
 ## 👋 Greetings! Welcome to My Profile!
-I am 22 years old and currently studying Computer Science at UIC, while independently learning UI/UX design and web development.
+I am 23 years old and currently studying Computer Science at UIC, while independently learning UI/UX Design and Frontend Development.
 
 **About Me:**
 
 
-I'm fascinated by the possibilities in Computer Science, from building responsive websites to crafting user-centered interfaces. I'm currently studying programming at university and enjoy exploring design principles and user experience strategies to understand what makes digital products effective and engaging. Each project I take on brings me closer to creating impactful, accessible experiences that resonate with users.
+I became interested in Computer Science through my passion for video games, which initially inspired me to explore game development. As I progressed through my studies, I discovered a strong interest in building user-centered digital experiences that combine both functionality and design.
+
+
+
+As an artist, I enjoy blending creativity and problem-solving to design intuitive, engaging, and accessible interfaces. I am especially interested in how thoughtful design and clean development work together to improve user experience.
+
+
+
+Right now, I am strengthening my skills in web development and UI/UX design, focusing on creating responsive, visually appealing, and user-friendly applications.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ⚙️ **Languages**: C, C++, Java, JavaFX, FXML, HTML, CSS, JavaScript
